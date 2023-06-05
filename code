@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="shortcut icon" type="x-icon" href="https://cdn-icons-png.flaticon.com/512/2698/2698239.png">
+</head>
+<body>
+
+</body>
+</html>
+
+
+<iframe src="music/musicc.mp3" allow="autoplay, loop" style="display:none" id="iframeAudio">
+</iframe>
